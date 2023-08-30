@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+**A meticulous, hard-working and conscientious third year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University.
+Proficient in the use of the following programming languages: C, C++, Java, Racket, Haskell, Prolog, D.
+Excellent communication skills in English.**
+
+Personal repositories and projects
+=====
+- Java Language Projects
+  - A Java Inventory Project (specialized form storing CDs and DVDs)
+
+University-related projects
+=====
+
 <!--
 **anaglodariu/anaglodariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
