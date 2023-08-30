@@ -7,7 +7,7 @@ Excellent communication skills in English.**
 Personal repositories and projects
 =====
 - Java Language Projects
-  - A Java Inventory Project (specialized for storing CDs and DVDs)
+  - A Java Inventory Project (specialized for storing CDs and DVDs): https://github.com/anaglodariu/Inventory
 
 University-related projects
 =====
