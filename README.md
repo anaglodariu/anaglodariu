@@ -19,6 +19,7 @@ University-related projects
 - Java Language Projects
   - A Quiz Generator for users using **Encapsulation** and **File Operations**: https://github.com/anaglodariu/QuizGenerator
   - A System Management for a City Hall using **Encapsulation**, **Exceptions**, **Inheritance**, **Abstraction**, **Polymorphism**, **Java Collections** and **Generic Classes**: https://github.com/anaglodariu/SystemManagement
+  - A Smart System for a Streaming App that recommends streams to users using **OOP Concepts** and **Design Patterns**: https://github.com/anaglodariu/StreamingAppSystem
 
 <!--
 **anaglodariu/anaglodariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
