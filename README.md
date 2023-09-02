@@ -16,6 +16,9 @@ University-related projects
   - A program that finds the words frequency in a text using a Hash Table: https://github.com/anaglodariu/WordsFrequency
   - A thread scheduler that receives tasks to be completed and assigns them to available threads for execution using Queues and Stacks: https://github.com/anaglodariu/ThreadPoolExecutor
 
+- Java Language Projects
+  - A Quiz Generator for users: https://github.com/anaglodariu/QuizGenerator
+
 <!--
 **anaglodariu/anaglodariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
