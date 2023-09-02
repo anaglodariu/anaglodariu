@@ -21,6 +21,10 @@ University-related projects
   - A System Management for a City Hall using **Encapsulation**, **Exceptions**, **Inheritance**, **Abstraction**, **Polymorphism**, **Java Collections** and **Generic Classes**: https://github.com/anaglodariu/SystemManagement
   - A Smart System for a Streaming App that recommends streams to users using **OOP Concepts** and **Design Patterns**: https://github.com/anaglodariu/StreamingAppSystem
 
+- Algorithms and Complexity Theory Projects
+    - An implementation of a polynomial reduction from **K-Clique** to **SAT**: https://github.com/anaglodariu/KCLIQUE_SAT
+    - An implementation (transition table) of a **Turing Machine** that verifies the validity of a Sudoku 4X4: https://github.com/anaglodariu/Sudoku4X4ValidityVerification
+
 <!--
 **anaglodariu/anaglodariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
