@@ -12,12 +12,13 @@ Personal repositories and projects
 University-related projects
 =====
 - C/C++ Language Projects
-  - A Linux File System Simulator using Binary Search Tree: https://github.com/anaglodariu/FileSystemSimulation
-  - A program that finds the words frequency in a text using a Hash Table: https://github.com/anaglodariu/WordsFrequency
-  - A thread scheduler that receives tasks to be completed and assigns them to available threads for execution using Queues and Stacks: https://github.com/anaglodariu/ThreadPoolExecutor
+  - A Linux File System Simulator using **Binary Search Tree**: https://github.com/anaglodariu/FileSystemSimulation
+  - A program that finds the words frequency in a text using a **Hash Table**: https://github.com/anaglodariu/WordsFrequency
+  - A thread scheduler that receives tasks to be completed and assigns them to available threads for execution using **Queues** and **Stacks**: https://github.com/anaglodariu/ThreadPoolExecutor
 
 - Java Language Projects
-  - A Quiz Generator for users: https://github.com/anaglodariu/QuizGenerator
+  - A Quiz Generator for users using **Encapsulation** and **File Operations**: https://github.com/anaglodariu/QuizGenerator
+  - A System Management for a City Hall using **Encapsulation**, **Exceptions**, **Inheritance**, **Abstraction**, **Polymorphism**, **Java Collections** and **Generic Classes**: https://github.com/anaglodariu/SystemManagement
 
 <!--
 **anaglodariu/anaglodariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
