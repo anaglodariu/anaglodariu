@@ -25,6 +25,10 @@ University-related projects
     - An implementation of a polynomial reduction from **K-Clique** to **SAT**: https://github.com/anaglodariu/KCLIQUE_SAT
     - An implementation (transition table) of a **Turing Machine** that verifies the validity of a Sudoku 4X4: https://github.com/anaglodariu/Sudoku4X4ValidityVerification
 
+- D Language Project (a website that verifies the security of links and files)
+    - Backend implementation: https://github.com/anaglodariu/WEBSITEBACKEND
+    - Middleware implementation: https://github.com/anaglodariu/WebAPI
+
 <!--
 **anaglodariu/anaglodariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
