@@ -29,6 +29,11 @@ University-related projects
   - An implementation of the data plane of a router using **Ethernet**, **IP**, **ARP** and **ICMP** Protocols: https://github.com/anaglodariu/RouterDataPlane
   - An implemenation of an UDP and TCP **client-server application** using **sockets**: https://github.com/anaglodariu/ClientServerApp
   - An implementation of a web client communicating with a REST API using the **HTTP Protocol**: https://github.com/anaglodariu/ClientWeb
+ 
+- Functional Programming Paradigm related Projects
+  - **Stable Matching Problem** implemented in **Racket**: https://github.com/anaglodariu/StableMatchingProblem
+  - **Functional data structures** implemented in **Haskell**: https://github.com/anaglodariu/FunctionalDataStructures
+  - **Carcassonne game** implemented in **Prolog**: https://github.com/anaglodariu/Carcassonne
 
 - Algorithms and Complexity Theory Projects
   - An implementation of a polynomial reduction from **K-Clique** to **SAT**: https://github.com/anaglodariu/KCLIQUE_SAT
