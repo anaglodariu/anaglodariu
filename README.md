@@ -25,6 +25,11 @@ University-related projects
   - ELF Executable Loader using **virtual memory management** concepts and **Priority Based Round-Robin Scheduling** algorithm: https://github.com/anaglodariu/ELFExecutableLoader
   - Thread Scheduler using **POSIX thread synchronization mechanisms**: https://github.com/anaglodariu/ThreadScheduler
 
+- Communication Protocols related Projects
+  - An implementation of the data plane of a router using **Ethernet**, **IP**, **ARP** and **ICMP** Protocols: https://github.com/anaglodariu/RouterDataPlane
+  - An implemenation of an UDP and TCP **client-server application** using **sockets**: https://github.com/anaglodariu/ClientServerApp
+  - An implementation of a web client communicating with a REST API using the **HTTP Protocol**: https://github.com/anaglodariu/ClientWeb
+
 - Algorithms and Complexity Theory Projects
   - An implementation of a polynomial reduction from **K-Clique** to **SAT**: https://github.com/anaglodariu/KCLIQUE_SAT
   - An implementation (transition table) of a **Turing Machine** that verifies the validity of a Sudoku 4X4: https://github.com/anaglodariu/Sudoku4X4ValidityVerification
