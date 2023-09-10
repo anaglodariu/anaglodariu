@@ -24,8 +24,8 @@ University-related projects
   - A Smart System for a Streaming App that recommends streams to users using **OOP Concepts** and **Design Patterns**: https://github.com/anaglodariu/StreamingAppSystem
  
 - Operating System Concepts Projects
-  - ELF Executable Loader using **virtual memory management** concepts and **Priority Based Round-Robin Scheduling** algorithm: https://github.com/anaglodariu/ELFExecutableLoader
-  - Thread Scheduler using **POSIX thread synchronization mechanisms**: https://github.com/anaglodariu/ThreadScheduler
+  - ELF Executable Loader using **virtual memory management** concepts: https://github.com/anaglodariu/ELFExecutableLoader
+  - Thread Scheduler using **POSIX thread synchronization mechanisms** and **Priority Based Round-Robin Scheduling** algorithm: https://github.com/anaglodariu/ThreadScheduler
 
 - Communication Protocols related Projects
   - An implementation of the data plane of a router using **Ethernet**, **IP**, **ARP** and **ICMP** Protocols: https://github.com/anaglodariu/RouterDataPlane
