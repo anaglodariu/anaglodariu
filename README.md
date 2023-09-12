@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-About
+About moi
 --
-**A meticulous, hard-working and conscientious third year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University.
+**A meticulous, hard-working and conscientious future third year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University.
 Proficient in the use of the following programming languages: C, C++, Java, Racket, Haskell, Prolog, D.
 Excellent communication skills in English.**
 
