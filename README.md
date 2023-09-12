@@ -10,6 +10,7 @@ Personal repositories and projects
 --
 - Java Language Projects
   - A Java Inventory Project (specialized for storing CDs and DVDs): https://github.com/anaglodariu/Inventory
+- 2D Game in C++ using the SDL library: https://github.com/anaglodariu/2DGame
 
 University-related projects
 --
