@@ -32,6 +32,7 @@ University-related projects
   - An implementation of the data plane of a router using **Ethernet**, **IP**, **ARP** and **ICMP** Protocols: https://github.com/anaglodariu/RouterDataPlane
   - An implemenation of an UDP and TCP **client-server application** using **sockets**: https://github.com/anaglodariu/ClientServerApp
   - An implementation of a web client communicating with a REST API using the **HTTP Protocol**: https://github.com/anaglodariu/ClientWeb
+  - An implementation of a switch using the **CAM table**, the **VLAN** and **STP** functionalities: https://github.com/anaglodariu/Switch
  
 - Functional Programming Paradigm related Projects
   - **Stable Matching Problem** implemented in **Racket**: https://github.com/anaglodariu/StableMatchingProblem
