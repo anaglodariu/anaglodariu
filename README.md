@@ -14,6 +14,10 @@ Personal repositories and projects
 
 University-related projects
 --
+- Elements of Computer Graphics
+  - Rhombus vs hexagons Game in **C++**: https://github.com/anaglodariu/Rhombus-vs-hexagons-
+  - World of Tanks Game in **C++**: https://github.com/anaglodariu/World-of-Tanks
+  
 - Parallel and Distributed Algorithms
   - Parallelizing the Marching Squares algorithm using **Pthreads** in **C**: https://github.com/anaglodariu/Marching-Squares
   - Task planning system implemented using **Java Threads**: https://github.com/anaglodariu/System-for-planning-tasks
