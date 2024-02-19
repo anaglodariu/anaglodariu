@@ -14,6 +14,10 @@ Personal repositories and projects
 
 University-related projects
 --
+- Parallel and Distributed Algorithms
+  - Parallelizing the Marching Squares algorithm using **Pthreads** in **C**: https://github.com/anaglodariu/Marching-Squares
+  - Task planning system implemented using **Java Threads**: https://github.com/anaglodariu/System-for-planning-tasks
+
 - C/C++ Language Projects
   - A Linux File System Simulator using **Binary Search Tree**: https://github.com/anaglodariu/FileSystemSimulation
   - A program that finds the words frequency in a text using a **Hash Table**: https://github.com/anaglodariu/WordsFrequency
