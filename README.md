@@ -39,6 +39,9 @@ University-related projects
   - **Functional data structures** implemented in **Haskell**: https://github.com/anaglodariu/FunctionalDataStructures
   - **Carcassonne game** implemented in **Prolog**: https://github.com/anaglodariu/Carcassonne
 
+- Formal Languages and Automata
+  - An **interpreter** for a simplistic programming language implemented in **Python**: https://github.com/anaglodariu/Interpreter
+
 - Algorithms and Complexity Theory Projects
   - An implementation of a polynomial reduction from **K-Clique** to **SAT**: https://github.com/anaglodariu/KCLIQUE_SAT
   - An implementation (transition table) of a **Turing Machine** that verifies the validity of a Sudoku 4X4: https://github.com/anaglodariu/Sudoku4X4ValidityVerification
