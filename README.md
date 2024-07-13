@@ -14,10 +14,18 @@ Personal repositories and projects
 
 University-related projects
 --
+- **Arduino** Game Project: https://github.com/anaglodariu/Hunt-Or-Be-Hunted
+
+- Game in Unity using **C#**: https://github.com/sirbuvladste/DetonateU/tree/mybrunch
+
+- Computing systems architecture:
+  - A Flask server that handles a series of requests based on a dataset in **Python**: https://github.com/anaglodariu/Flask-Server
+  - Parallelize a given program using **CUDA Threads**: https://github.com/anaglodariu/CUDA
+
 - Elements of Computer Graphics
   - Rhombus vs hexagons Game in **C++**: https://github.com/anaglodariu/Rhombus-vs-hexagons-
   - World of Tanks Game in **C++**: https://github.com/anaglodariu/World-of-Tanks
-  
+
 - Parallel and Distributed Algorithms
   - Parallelizing the Marching Squares algorithm using **Pthreads** in **C**: https://github.com/anaglodariu/Marching-Squares
   - Task planning system implemented using **Java Threads**: https://github.com/anaglodariu/System-for-planning-tasks
